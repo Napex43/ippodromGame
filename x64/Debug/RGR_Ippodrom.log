@@ -1,0 +1,15 @@
+﻿  ippodrom.cpp
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(148,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(383,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(383,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(388,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(388,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(391,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(391,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(395,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(395,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(400,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(400,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(403,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Projects\RGR_Ippodrom\ippodrom.cpp(403,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  RGR_Ippodrom.vcxproj -> C:\Projects\RGR_Ippodrom\x64\Debug\RGR_Ippodrom.exe
